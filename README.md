@@ -26,8 +26,8 @@ Python3 and Flask
 </ol> 
 <ul>
  <li>python -m venv venv</li>
- <li>pip3 install -r requirements.txt</li>
- <li>pip3 install forex-python</li>
  <li>source venv/bin/activate</li>
+ <li>pip3 install forex-python</li>
+ <li>pip3 install -r requirements.txt</li>
  <li>python3 -m flask run</li>
 </ul>
